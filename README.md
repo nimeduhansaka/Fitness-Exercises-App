@@ -1,16 +1,51 @@
-# React + Vite
+# 🏋️‍♀️ Fitness Exercises App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and responsive **Fitness Exercises App** built using **React**, **Vite**, and **Material UI**.  
+This app helps users explore **1000+ fitness exercises** with **practical examples**, **detailed instructions**, and **smooth pagination** — all wrapped in a **clean, modern design**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ **Built with Vite + React** for ultra-fast performance  
+- 🎨 **Material UI design system** for a sleek, modern interface  
+- 💪 **Over 1000 exercises** with categorized filters  
+- 🔍 **Exercise Search & Filter** — find workouts by body part, equipment, or target muscle  
+- 📄 **Detailed Exercise Pages** with animations, instructions, and examples  
+- 🔢 **Pagination support** for smooth browsing experience  
+- 📱 **Fully responsive** — works great on all devices  
+- 🧩 **Reusable components** and clean project structure  
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React (Vite)
+- **UI Framework:** Material UI (MUI)
+- **Routing:** React Router
+- **Data Source:** ExerciseDB API / RapidAPI (for exercises)
+- **State Management:** React hooks + Context
+- **Build Tool:** Vite
+
+---
+
+## 📸 Screenshots (Optional)
+
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone this repository
+git clone https://github.com/your-username/fitness-exercises-app.git
+
+# Navigate into the project folder
+cd fitness-exercises-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
