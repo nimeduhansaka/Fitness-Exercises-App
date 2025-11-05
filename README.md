@@ -32,8 +32,12 @@ This app helps users explore **1000+ fitness exercises** with **practical exampl
 ## 📸 Screenshots (Optional)
 
 
-
 ---
+
+
+## 🌐 API Reference
+This app fetches data from the **ExerciseDB API** (via RapidAPI) to display exercises, images, and related information.
+
 
 ## ⚙️ Installation & Setup
 
@@ -49,3 +53,18 @@ npm install
 
 # Run the development server
 npm run dev
+
+
+fitness-exercises-app/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── utils/
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── package.json
+└── vite.config.js
+
+
